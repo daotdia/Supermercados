@@ -1,0 +1,2 @@
+# Supermercados
+Datos de supermercados
